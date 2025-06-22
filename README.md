@@ -40,7 +40,7 @@ Snake-Game-Unity/
 
 2. **For Developers**:
    ```bash
-   git clone https://github.com/DevHasnainzx/snake-game.git
+   (https://github.com/DevHasnainzx/Snake-Bite-Game-In-Unity.git)
 
 ## 📜 Credits
 Art Assets: Kenney.nl

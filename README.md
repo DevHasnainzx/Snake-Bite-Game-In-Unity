@@ -33,24 +33,20 @@ Snake-Game-Unity/
 ├── Video.mp4 # Gameplay video
 ....
 
-
 ## 🚀 Installation
-### Play the Game
-1. Download [BuildApk.zip](BuildApk.zip)
-2. Extract the APK file
-3. Enable "Install unknown sources" in Android settings
-4. Install and enjoy!
+1. **For Players**:
+   - Download [BuildApk.zip](BuildApk.zip)
+   - Extract and install the APK
 
-### Build from Source
-```bash
-git clone https://github.com/DevHasnainzx/snake-game.git
+2. **For Developers**:
+   ```bash
+   git clone https://github.com/DevHasnainzx/snake-game.git
 
+##📜 Credits
+The following resources were used in this project:
 
-📜 Credits
-Assets: Kenney.nl
-
-Sounds: [freesound.org]
-
-Font: [Google Fonts]
+Game Assets: Kenney.nl
+Sound Effects: [freesound.org]
+UI Fonts: [Google Fonts]
 
 Developed by Muhammad Hasnain Khan

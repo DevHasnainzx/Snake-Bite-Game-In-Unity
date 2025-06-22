@@ -42,7 +42,7 @@ Snake-Game-Unity/
    ```bash
    git clone https://github.com/DevHasnainzx/snake-game.git
 
-📜 Credits
+## 📜 Credits
 Art Assets: Kenney.nl
 
 Sound Effects: [freesound.org]

@@ -5,6 +5,10 @@
 
 A modern take on the classic Snake game with mobile-friendly controls and adaptive scaling.
 
+## 📹 Gameplay Video
+The repository includes a gameplay video file:  
+`Video.mp4` - Download this file to view the gameplay demonstration
+
 ## ✨ Features
 - Mobile touch controls (D-pad buttons)
 - Dynamic screen adaptation
@@ -37,12 +41,8 @@ SNAKE GAME/
 1. Clone the repository:
    ```bash
    git clone https://github.com/DevHasnainzx/snake-game.git
-
    Open in Unity (version 6000.90.45f recommended)
     Build for your target platform
-
-🎥 Gameplay Video
-https://Video.mp4
 
 📜 Credits
 Sound effects: [freesound.org]

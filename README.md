@@ -1,9 +1,13 @@
 # 🐍 Snake Game - Unity
-
-![Main Menu](Main%20Menu.png)
-![Gameplay](GameplayScreen.png)
-
 A modern take on the classic Snake game with mobile-friendly controls and adaptive scaling.
+
+## 🖼️ Game Screenshots
+![Main Menu](Main%20Menu.png)  
+*Main Menu Screen*
+
+![Gameplay](GameplayScreen.png)  
+*In-Game Screenshot*
+
 
 ## 📹 Gameplay Video
 The repository includes a gameplay video file:  
@@ -17,37 +21,35 @@ The repository includes a gameplay video file:
 - Clean UI with game states
 
 ## 📦 Project Structure
-SNAKE GAME/
+Snake-Game-Unity/
 ├── Assets/ # Game assets
 │ ├── Audio/ # Sound files
 │ ├── Prefabs/ # Game objects
 │ ├── Scenes/ # Game scenes
 │ └── Scripts/ # C# scripts
-├── ProjectSettings/ # Unity configuration
-├── Packages/ # Dependencies
+├── BuildApk.zip # Compressed APK file
 ├── Main Menu.png # Main menu screenshot
 ├── GameplayScreen.png # Gameplay screenshot
-└── Video.mp4 # Gameplay video
+├── Video.mp4 # Gameplay video
 ....
 
-## 🚀 Getting Started
 
-### Option 1: Play the APK
-1. Download the latest APK from [Releases](#)
-2. Enable "Install unknown sources" in Android settings
-3. Install and enjoy!
+## 🚀 Installation
+### Play the Game
+1. Download [BuildApk.zip](BuildApk.zip)
+2. Extract the APK file
+3. Enable "Install unknown sources" in Android settings
+4. Install and enjoy!
 
-### Option 2: Build from Source
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/DevHasnainzx/snake-game.git
-   Open in Unity (version 6000.90.45f recommended)
-    Build for your target platform
+### Build from Source
+```bash
+git clone https://github.com/DevHasnainzx/snake-game.git
+
 
 📜 Credits
-Sound effects: [freesound.org]
+Assets: Kenney.nl
 
-Art assets: Kenney.nl
+Sounds: [freesound.org]
 
 Font: [Google Fonts]
 

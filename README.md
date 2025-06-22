@@ -42,11 +42,11 @@ Snake-Game-Unity/
    ```bash
    git clone https://github.com/DevHasnainzx/snake-game.git
 
-##📜 Credits
-The following resources were used in this project:
+📜 Credits
+Art Assets: Kenney.nl
 
-Game Assets: Kenney.nl
 Sound Effects: [freesound.org]
-UI Fonts: [Google Fonts]
+
+Fonts: [Google Fonts]
 
 Developed by Muhammad Hasnain Khan
